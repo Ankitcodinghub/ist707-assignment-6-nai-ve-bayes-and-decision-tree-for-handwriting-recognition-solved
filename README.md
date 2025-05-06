@@ -1,0 +1,1 @@
+# ist707-assignment-6-nai-ve-bayes-and-decision-tree-for-handwriting-recognition-solved
